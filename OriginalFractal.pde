@@ -27,7 +27,7 @@ public void rectangle(int x, int y, int len)
    
 
    
-    fill(180);
+    fill(200);
     rect(x-len/2, y-len/2, len/2, len/2);
 
     rectangle(x+len/2, y+len/2, len/2);
